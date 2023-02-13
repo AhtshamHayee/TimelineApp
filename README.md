@@ -14,8 +14,8 @@
 ### Folder structure
 
 ```
-src
-    .
+
+    src
     ├── api
     │   └── timeLineApi.js
     ├── components
