@@ -13,7 +13,7 @@
 
 ### Folder structure
 
-
+```
 src
     .
     ├── api
@@ -29,3 +29,5 @@ src
     │   └── useUnlikeTweet.js
     └── screens
         └── Timeline.js
+
+```
