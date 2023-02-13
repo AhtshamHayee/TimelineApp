@@ -14,29 +14,16 @@
 ### Folder structure
 
 src
-|
 ├── api
-
 │   └── timeLineApi.js
-
 ├── components
-
 │   ├── ListItem.js
-
 │   └── MenuHeader.js
-
 ├── context
-
 │   ├── createDataContext.js
-
 │   └── timeLineContext.js
-
 ├── hooks
-
 │   ├── useLikeTweet.js
-
 │   └── useUnlikeTweet.js
-
 └── screens
-
     └── Timeline.js
